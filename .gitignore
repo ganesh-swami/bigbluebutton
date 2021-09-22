@@ -34,3 +34,5 @@ clients/flash/**/.gradle
 **/.idea/*
 *.iml
 *~
+config.bat
+node_modules
