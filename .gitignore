@@ -24,3 +24,5 @@ record-and-playback/.loadpath
 *~
 cache/*
 artifacts/*
+config.bat
+node_modules
