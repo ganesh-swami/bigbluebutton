@@ -23,3 +23,5 @@ cache/*
 artifacts/*
 bbb-presentation-video.zip
 bbb-presentation-video
+config.bat
+node_modules
